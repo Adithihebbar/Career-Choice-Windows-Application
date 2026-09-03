@@ -1,5 +1,4 @@
 # Career-Choice-Windows-Application
-# Career Choice – Windows Recruitment Portal
 
 A desktop-based recruitment management system developed using **C#, .NET Windows Forms, and SQL Server** for managing job postings, candidate registrations, and recruitment workflows.
 
